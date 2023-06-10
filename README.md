@@ -2,7 +2,7 @@
 
 A rebuild of a Prieur Foil/Epee Scorebox from the 1980s? The internal circuitry was replaced with an Arduino Nano and code based on [Wnew's Implimentation](https://github.com/wnew/fencing_scoring_box).
 
-The lights were replaced with LEDs and the two left pushbuttons were altered to choose between Foil/Epee/Saber/Foil Classic. Where foil classic is foil with the pre-2005 timing.
+The lights were replaced with LEDs and the two left pushbuttons were altered to choose between Foil/Epee/Saber/Foil Classic. Where foil classic is foil with the pre-2005 timing. A RGB LED replaced the power light and now indicates power, but also which weapon is selected.
 
 The original coding also displayed the lights after the lockout time elapsed. The code was altered to display the lights immediately after hitting instead of waiting the lockout timing to expire. This is useful for refereeing foil so that the referee can more easily differentiate between a mal-parry amd remise. This may alter the accuracy of the timing, but it still "feels" correct and makes refereeing easier.
 
