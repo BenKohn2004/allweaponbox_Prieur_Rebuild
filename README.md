@@ -8,4 +8,4 @@ The original coding also displayed the lights after the lockout time elapsed. Th
 
 Foil/Epee work great, saber is does not work as well.
 
-[Prieur Bottom of Circuit Board.jpg](Prieur Bottom of Circuit Board.jpg)
+[Prieur Bottom of Circuit Board](Prieur Bottom of Circuit Board.jpg)
