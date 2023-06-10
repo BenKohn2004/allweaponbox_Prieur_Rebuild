@@ -1,4 +1,4 @@
-Prieur Rebuild
+#Prieur Rebuild
 
 A rebuild of a Prieur Foil/Epee Scorebox from the 1980s? The internal circuitry was replaced with an Arduino Nano and code based on [Wnew's Implimentation](https://github.com/wnew/fencing_scoring_box).
 
