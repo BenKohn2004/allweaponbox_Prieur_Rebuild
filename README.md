@@ -1,6 +1,6 @@
 #Prieur Rebuild
 
-A rebuild of a Prieur Foil/Epee Scorebox from the 1980s? The internal circuitry was replaced with an [Arduino Nano](https://github.com/BenKohn2004/allweaponbox_Prieur_Rebuild/Schematic_Prieur_Sports_MP90_Arduino_Rebuild.pdf) and code based on [Wnew's Implimentation](https://github.com/wnew/fencing_scoring_box).
+A rebuild of a Prieur Foil/Epee Scorebox from the 1980s? The internal circuitry was replaced with an [Arduino Nano](https://github.com/BenKohn2004/allweaponbox_Prieur_Rebuild/blob/main/Schematic_Prieur_Sports_MP90_Arduino_Rebuild.pdf) and code based on [Wnew's Implimentation](https://github.com/wnew/fencing_scoring_box).
 
 The lights were replaced with LEDs and the two left pushbuttons were altered to choose between Foil/Epee/Saber/Foil Classic. Where foil classic is foil with the pre-2005 timing. A RGB LED replaced the power light and now indicates power, but also which weapon is selected.
 
