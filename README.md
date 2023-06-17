@@ -13,3 +13,7 @@ Foil/Epee work great, saber not as well.
 <img src="Prieur Top of Circuit Board.jpg">
 
 <img src="Prieur Scoring Box.jpg">
+
+<img src="prieur box thumbnail.jpg">
+
+
